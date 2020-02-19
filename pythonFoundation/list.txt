@@ -1,0 +1,73 @@
+2020/02/17  20:41        12,391,026 python基础 1 安装 (教学教程tutorial).mp4
+2020/02/17  20:35         8,059,501 python基础 10 def 函数 (教学教程tutorial).mp4
+2020/02/17  20:34         6,338,136 python基础 11 函数 参数 (教学教程tutorial).mp4
+2020/02/17  20:34             5,385 python基础 11 函数 参数 (教学教程tutorial)_简体中文（zh-Hans）-auto.srt
+2020/02/17  20:34             9,619 python基础 11 函数 参数 (教学教程tutorial)_英文_简中_双语.srt
+2020/02/17  20:34        13,598,490 python基础 12 函数默认参数 (教学教程tutorial).mp4
+2020/02/17  20:33            10,744 python基础 12 函数默认参数 (教学教程tutorial)_简体中文（zh-Hans）-auto.srt
+2020/02/17  20:33            18,799 python基础 12 函数默认参数 (教学教程tutorial)_英文_简中_双语.srt
+2020/02/17  20:41        12,876,682 python基础 13 全局 & 局部变量, global & local (教学教程tutorial).mp4
+2020/02/17  20:33        15,983,414 python基础 14 模块安装 (教学教程tutorial).mp4
+2020/02/17  20:32            10,185 python基础 14 模块安装 (教学教程tutorial)_简体中文（zh-Hans）-auto.srt
+2020/02/17  20:32            18,774 python基础 14 模块安装 (教学教程tutorial)_英文_简中_双语.srt
+2020/02/17  21:00         6,915,643 python基础 15 读写文件1 (教学教程tutorial).mp4
+2020/02/17  20:59             8,006 python基础 15 读写文件1 (教学教程tutorial)_简体中文（zh-Hans）-auto.srt
+2020/02/17  21:00            14,508 python基础 15 读写文件1 (教学教程tutorial)_英文_简中_双语.srt
+2020/02/17  20:50         4,042,468 python基础 16 读写文件2 (教学教程tutorial).mp4
+2020/02/17  20:50             7,666 python基础 16 读写文件2 (教学教程tutorial)_英文_简中_双语.srt
+2020/02/17  20:52         8,004,816 python基础 17 文件读写3 (教学教程tutorial).mp4
+2020/02/17  20:52             7,326 python基础 17 文件读写3 (教学教程tutorial)_简体中文（zh-Hans）-auto.srt
+2020/02/17  20:52            13,197 python基础 17 文件读写3 (教学教程tutorial)_英文_简中_双语.srt
+2020/02/17  20:54        18,176,689 python基础 18 class 类 (教学教程tutorial).mp4
+2020/02/17  20:56        19,412,955 python基础 19 类 init 功能 (教学教程tutorial).mp4
+2020/02/17  20:55            11,635 python基础 19 类 init 功能 (教学教程tutorial)_简体中文（zh-Hans）-auto.srt
+2020/02/17  20:55            20,801 python基础 19 类 init 功能 (教学教程tutorial)_英文_简中_双语.srt
+2020/02/17  20:48        15,925,059 python基础 2 print() (教学教程tutorial).mp4
+2020/02/17  20:32        10,447,813 python基础 20 input 输入 (教学教程tutorial).mp4
+2020/02/17  20:31             7,905 python基础 20 input 输入 (教学教程tutorial)_简体中文（zh-Hans）-auto.srt
+2020/02/17  20:31            13,917 python基础 20 input 输入 (教学教程tutorial)_英文_简中_双语.srt
+2020/02/17  20:31        11,065,714 python基础 21 元组 列表 (教学教程tutorial).mp4
+2020/02/17  20:30             9,165 python基础 21 元组 列表 (教学教程tutorial)_简体中文（zh-Hans）-auto.srt
+2020/02/17  20:30            16,614 python基础 21 元组 列表 (教学教程tutorial)_英文_简中_双语.srt
+2020/02/17  20:48        15,447,455 python基础 22 列表 list (教学教程tutorial).mp4
+2020/02/17  20:29         6,736,823 python基础 23 多维列表 (教学教程tutorial).mp4
+2020/02/17  20:58         9,532,402 python基础 24 字典 dictionary (教学教程tutorial).mp4
+2020/02/17  20:58             8,906 python基础 24 字典 dictionary (教学教程tutorial)_简体中文（zh-Hans）-auto.srt
+2020/02/17  20:58            15,910 python基础 24 字典 dictionary (教学教程tutorial)_英文_简中_双语.srt
+2020/02/17  20:59         7,818,772 python基础 25 import 载入模块 (教学教程tutorial).mp4
+2020/02/17  21:01         9,950,842 python基础 26 自己的模块 (教学教程tutorial).mp4
+2020/02/17  21:01             7,242 python基础 26 自己的模块 (教学教程tutorial)_简体中文（zh-Hans）-auto.srt
+2020/02/17  21:01            12,853 python基础 26 自己的模块 (教学教程tutorial)_英文_简中_双语.srt
+2020/02/17  21:05         8,034,495 python基础 27 continue & break (教学教程tutorial).mp4
+2020/02/17  21:04             6,918 python基础 27 continue & break (教学教程tutorial)_简体中文（zh-Hans）-auto.srt
+2020/02/17  21:04            12,510 python基础 27 continue & break (教学教程tutorial)_英文_简中_双语.srt
+2020/02/17  21:07        10,650,018 python基础 28 错误处理 try (教学教程tutorial).mp4
+2020/02/17  21:06             7,933 python基础 28 错误处理 try (教学教程tutorial)_简体中文（zh-Hans）-auto.srt
+2020/02/17  21:06            14,292 python基础 28 错误处理 try (教学教程tutorial)_英文_简中_双语.srt
+2020/02/17  21:07        16,120,403 python基础 29 zip lambda map (教学教程tutorial).mp4
+2020/02/17  20:38         5,414,552 python基础 3 数学 (教学教程tutorial).mp4
+2020/02/17  21:07        17,057,908 python基础 30 浅复制&深复制, copy & deepcopy (教学教程tutorial).mp4
+2020/02/17  21:11         6,249,610 python基础 31 Python threading 1 什么是多线程 (教学教程tutorial).mp4
+2020/02/17  21:10         4,760,680 python基础 32 Python multiprocessing 1 什么是多进程 (多进程 多核运算 教学教程tutorial).mp4
+2020/02/17  21:10         5,340,409 python基础 33 Python tkinter 1 什么是tkinter窗口 (GUI 窗口 教学教程tutorial).mp4
+2020/02/17  21:11        15,914,701 python基础 34 pickle 存放数据 (教学教程tutorial).mp4
+2020/02/17  21:11        28,332,763 python基础 35 set 找不同 (教学教程tutorial).mp4
+2020/02/17  21:13        56,020,062 python基础 36 RegEx 正则表达式 (教学教程tutorial).mp4
+2020/02/17  20:37         9,983,694 python基础 4 自变量 variable (教学教程tutorial).mp4
+2020/02/17  20:37             6,341 python基础 4 自变量 variable (教学教程tutorial)_简体中文（zh-Hans）-auto.srt
+2020/02/17  20:37            11,396 python基础 4 自变量 variable (教学教程tutorial)_英文_简中_双语.srt
+2020/02/17  20:46         9,091,980 python基础 5 while循环 (教学教程tutorial).mp4
+2020/02/17  20:38        15,737,606 python基础 6 for循环 (教学教程tutorial).mp4
+2020/02/17  20:37            24,063 python基础 6 for循环 (教学教程tutorial)_英文_简中_双语.srt
+2020/02/17  20:57         8,505,045 python基础 7 if 条件 (教学教程tutorial).mp4
+2020/02/17  21:00             7,952 python基础 7 if 条件 (教学教程tutorial)_简体中文（zh-Hans）-auto (1).srt
+2020/02/17  20:56             7,952 python基础 7 if 条件 (教学教程tutorial)_简体中文（zh-Hans）-auto.srt
+2020/02/17  21:00            14,662 python基础 7 if 条件 (教学教程tutorial)_英文_简中_双语 (1).srt
+2020/02/17  20:56            14,662 python基础 7 if 条件 (教学教程tutorial)_英文_简中_双语.srt
+2020/02/17  20:35         3,974,180 python基础 8 if else 条件 (教学教程tutorial).mp4
+2020/02/17  20:35             3,912 python基础 8 if else 条件 (教学教程tutorial)_简体中文（zh-Hans）-auto.srt
+2020/02/17  20:35             7,180 python基础 8 if else 条件 (教学教程tutorial)_英文_简中_双语.srt
+2020/02/17  20:35         8,347,404 python基础 9 if elif else (教学教程tutorial).mp4
+2020/02/17  20:34             7,032 python基础 9 if elif else (教学教程tutorial)_简体中文（zh-Hans）-auto.srt
+2020/02/17  20:34            12,632 python基础 9 if elif else (教学教程tutorial)_英文_简中_双语.srt
+              72 个文件    442,668,804 字节
